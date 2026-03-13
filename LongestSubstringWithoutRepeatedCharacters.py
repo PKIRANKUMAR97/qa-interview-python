@@ -11,6 +11,6 @@ def func_LongestSubstring(s):
         max_len = max(max_len, len(substring))
 
     return max_len
-print(func_LongestSubstring(""))
+print(func_LongestSubstring("kirannn"))
 
 
